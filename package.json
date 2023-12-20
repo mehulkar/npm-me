@@ -1,0 +1,9 @@
+{
+  "name": "@mehulkar/me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "author": "Mehul Kar <mehul.kar@gmail.com>",
+  "license": "ISC",
+  "bin": "bin/cli.mjs"
+}
